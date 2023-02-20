@@ -1,0 +1,11 @@
+bot:
+  adminName: 'AAA粤北专业烟花批发周总'
+  adminRemarkName: '主人'
+  botName: 'Bot'
+
+msgApi:
+  openAi:
+    key: ''
+
+  tianxinAi:
+    key: ''
